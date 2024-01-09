@@ -1,0 +1,45 @@
+/* header {
+    background-color: rgba(0, 0, 0, 0.2); 
+    transition: background-color 0.3s; 
+  } */
+
+  .header {
+    position: fixed;
+    height: 90px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 4;
+    transition: .3s ease-in;
+    /* overflow: hidden; */
+}
+  .header-l {
+    position: fixed;
+    height: 90px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 4;
+    transition: .3s ease-in;
+    /* overflow: hidden; */
+
+}
+.header-bg{
+    background-color: #082212;
+}
+.logo{
+    transition: .3s ease-in;
+}
+.active {
+    border-bottom: 2px solid #179c4a;
+    transition: all 0.5s; 
+  }
+
+  .a-h {
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.5s; 
+  }
+  
+  .a-h:hover {
+    border-bottom: 2px solid #179c4a;
+  }
