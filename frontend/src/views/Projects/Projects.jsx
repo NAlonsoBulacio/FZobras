@@ -16,9 +16,9 @@ const Projects = () => {
               Nuestros Proyectos
             </h1>
           </div>
-          <div className="w-full flex justify-center">
+          <div className="w-full flex justify-center my-6">
             <div className="w-2/5">
-              <hr className="my-2 border-[1.5px] border-green-500" />
+              <hr className="border-[1.5px] border-green-500" />
             </div>
           </div>
           <div className="w-full flex justify-center items-center">
@@ -53,7 +53,7 @@ const Projects = () => {
                       {project.description}
                     </h1>
                   </div>
-                  <a href="" className="text-green-600 text-lg">
+                  <a href={`/project/${project.path}`} className="text-green-600 text-lg">
                     Seguir leyendo
                   </a>
                 </div>

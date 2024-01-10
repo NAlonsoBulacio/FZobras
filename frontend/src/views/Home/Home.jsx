@@ -25,7 +25,7 @@ const Home = () => {
         <WhatWeDoContainer />
       </div>
       <Flyer1 />
-      <div className="py-12 space-y-16">
+      <div className="py-16 pb-24 space-y-16">
         <ProjectsContainer />
         <div className="text-center py-4 max-w-[1223px] mx-auto ">
           <ItemsContainer />

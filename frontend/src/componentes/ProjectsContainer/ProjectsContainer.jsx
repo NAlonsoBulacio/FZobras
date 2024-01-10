@@ -1,5 +1,5 @@
 import React from "react";
-import Project from "../Project/Project";
+import BestProject from "../BestProject/BestProject";
 const ProjectsContainer = () => {
   const projects = [
     {
@@ -48,7 +48,7 @@ const ProjectsContainer = () => {
         <div className="flex flex-wrap md:max-w-[1200px] items-center justify-center">
           {projects.map((datos, index) => (
             <div key={index} className="w-full sm:w-1/2 md:w-1/3 py-4">
-              <Project img={datos.img} title={datos.title} />
+              <BestProject img={datos.img} title={datos.title} />
             </div>
           ))}
         </div>

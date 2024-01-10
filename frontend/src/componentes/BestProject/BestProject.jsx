@@ -1,7 +1,7 @@
 import React from "react";
-import "./Project.css";
+import "./BestProject.css";
 
-const Project = ({ img, title }) => {
+const BestProject = ({ img, title }) => {
   return (
     <div className="flex flex-wrap justify-center items-center">
       <div className="w-full flex justify-center items-center">
@@ -22,4 +22,4 @@ const Project = ({ img, title }) => {
   );
 };
 
-export default Project;
+export default BestProject;

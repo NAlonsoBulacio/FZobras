@@ -15,6 +15,7 @@ const proyectos = [
     description: [
       "Este proyecto arquitectónico se destaca por sus amplios espacios integrados, grandes ventanales como testigos del imponente paisaje del cerro San Javier. Y la clara y armónica composición volumétrica, que remite a un estilo, evidentemente clásico y de porte francés. La belleza y la simpleza de un diseño único adaptado al contexto y la cualidad de nuestros clientes.",
     ],
+    path:"casa-va-l3s5"
   },
   {
     name: "HOSTERÍA DE ESCABA",
@@ -30,6 +31,7 @@ const proyectos = [
     description: [
       "Apunta a brindar un espacio con servicios de calidad para tucumanos y turistas que deseen pasar un día o más en el destino. Así, se erigirá un alojamiento que destaque el contacto con la naturaleza y el disfrute de los paisajes que posee Escaba. Además, albergará y promoverá diferentes actividades deportivas y recreativas del lugar, con equipamiento adecuado, apto para diversos eventos al aire libre.",
     ],
+    path: "hosteria-de-escaba"
   },
   {
     name: "Casa VA L3S5",
@@ -45,6 +47,7 @@ const proyectos = [
     description: [
       "Este proyecto arquitectónico se destaca por sus amplios espacios integrados, grandes ventanales como testigos del imponente paisaje del cerro San Javier. Y la clara y armónica composición volumétrica, que remite a un estilo, evidentemente clásico y de porte francés. La belleza y la simpleza de un diseño único adaptado al contexto y la cualidad de nuestros clientes.",
     ],
+    path:"casa-va-l3s5"
   },
   {
     name: "HOSTERÍA DE ESCABA",
@@ -60,6 +63,7 @@ const proyectos = [
     description: [
       "Apunta a brindar un espacio con servicios de calidad para tucumanos y turistas que deseen pasar un día o más en el destino. Así, se erigirá un alojamiento que destaque el contacto con la naturaleza y el disfrute de los paisajes que posee Escaba. Además, albergará y promoverá diferentes actividades deportivas y recreativas del lugar, con equipamiento adecuado, apto para diversos eventos al aire libre.",
     ],
+    path: "hosteria-de-escaba"
   },
   {
     name: "Casa VA L3S5",
@@ -75,6 +79,7 @@ const proyectos = [
     description: [
       "Este proyecto arquitectónico se destaca por sus amplios espacios integrados, grandes ventanales como testigos del imponente paisaje del cerro San Javier. Y la clara y armónica composición volumétrica, que remite a un estilo, evidentemente clásico y de porte francés. La belleza y la simpleza de un diseño único adaptado al contexto y la cualidad de nuestros clientes.",
     ],
+    path:"casa-va-l3s5"
   },
   {
     name: "HOSTERÍA DE ESCABA",
@@ -90,6 +95,7 @@ const proyectos = [
     description: [
       "Apunta a brindar un espacio con servicios de calidad para tucumanos y turistas que deseen pasar un día o más en el destino. Así, se erigirá un alojamiento que destaque el contacto con la naturaleza y el disfrute de los paisajes que posee Escaba. Además, albergará y promoverá diferentes actividades deportivas y recreativas del lugar, con equipamiento adecuado, apto para diversos eventos al aire libre.",
     ],
+    path: "hosteria-de-escaba"
   },
   {
     name: "Casa VA L3S5",
@@ -105,6 +111,7 @@ const proyectos = [
     description: [
       "Este proyecto arquitectónico se destaca por sus amplios espacios integrados, grandes ventanales como testigos del imponente paisaje del cerro San Javier. Y la clara y armónica composición volumétrica, que remite a un estilo, evidentemente clásico y de porte francés. La belleza y la simpleza de un diseño único adaptado al contexto y la cualidad de nuestros clientes.",
     ],
+    path:"casa-va-l3s5"
   },
   {
     name: "HOSTERÍA DE ESCABA",
@@ -120,6 +127,7 @@ const proyectos = [
     description: [
       "Apunta a brindar un espacio con servicios de calidad para tucumanos y turistas que deseen pasar un día o más en el destino. Así, se erigirá un alojamiento que destaque el contacto con la naturaleza y el disfrute de los paisajes que posee Escaba. Además, albergará y promoverá diferentes actividades deportivas y recreativas del lugar, con equipamiento adecuado, apto para diversos eventos al aire libre.",
     ],
+    path: "hosteria-de-escaba"
   },
   {
     name: "Casa VA L3S5",
@@ -135,6 +143,7 @@ const proyectos = [
     description: [
       "Este proyecto arquitectónico se destaca por sus amplios espacios integrados, grandes ventanales como testigos del imponente paisaje del cerro San Javier. Y la clara y armónica composición volumétrica, que remite a un estilo, evidentemente clásico y de porte francés. La belleza y la simpleza de un diseño único adaptado al contexto y la cualidad de nuestros clientes.",
     ],
+    path:"casa-va-l3s5"
   },
   {
     name: "HOSTERÍA DE ESCABA",
@@ -150,6 +159,7 @@ const proyectos = [
     description: [
       "Apunta a brindar un espacio con servicios de calidad para tucumanos y turistas que deseen pasar un día o más en el destino. Así, se erigirá un alojamiento que destaque el contacto con la naturaleza y el disfrute de los paisajes que posee Escaba. Además, albergará y promoverá diferentes actividades deportivas y recreativas del lugar, con equipamiento adecuado, apto para diversos eventos al aire libre.",
     ],
+    path: "hosteria-de-escaba"
   },
 ];
 
