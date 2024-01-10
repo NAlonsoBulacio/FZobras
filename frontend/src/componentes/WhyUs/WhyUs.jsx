@@ -35,7 +35,7 @@ const WhyUs = () => {
   ];
 
   return (
-    <div className="w-full flex flex-wrap justify-center items-center py-8">
+    <div className="w-full flex flex-wrap justify-center items-center">
       <div className="w-full flex flex-wrap justify-center items-center py-6 mb-4">
         <div className="w-full">
           <h1 className="text-green-800 text-3xl font-barlow-400 tracking-widest">

@@ -1,7 +1,7 @@
 import React from "react";
 const ContactUs = () => {
   return (
-    <div className="w-full flex flex-wrap justify-center items-center py-12 space-y-4">
+    <div className="w-full flex flex-wrap justify-center items-center space-y-4">
       <div className="w-full flex justify-center items-center">
         <h1 className="text-green-800 text-3xl font-barlow-400 tracking-widest">Contáctanos Ahora</h1>
       </div>

@@ -11,6 +11,7 @@ import Clients from "../../componentes/Clients/Clients";
 import Footer from "../../componentes/Footer/Footer";
 import ProjectsContainer from "../../componentes/ProjectsContainer/ProjectsContainer";
 import Flyer1 from "../../componentes/Flyer1/Flyer1";
+import WhatsappButton from '../../componentes/Whatsapp/WhatsappButton';
 const Home = () => {
   return (
     <div className="flex flex-col items-center">
@@ -36,6 +37,7 @@ const Home = () => {
       <div className="text-center py-4 max-w-[1223px] mx-auto ">
         <ContactUs />
       </div>
+      <WhatsappButton />
       <Footer />
     </div>
   );
