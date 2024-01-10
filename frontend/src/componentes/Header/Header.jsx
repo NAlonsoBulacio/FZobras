@@ -53,11 +53,13 @@ const Header = () => {
           style={{ maxWidth: "1150px", height: "70px" }}
         >
           <div className="logo flex items-center space-x-4">
-            <img
-              src={logo}
-              alt="Logo"
-              style={{ height: "87px", weight: "87px" }}
-            />
+            <a href="/">
+              <img
+                src={logo}
+                alt="Logo"
+                style={{ height: "87px", weight: "87px" }}
+              />
+            </a>
             <nav className="font-poppins-200 space-x-4"></nav>
           </div>
           <button className="hamburguer" onClick={handleMenuToggle}>
@@ -69,11 +71,16 @@ const Header = () => {
           style={{ maxWidth: "1150px", height: navbar ? "65px" : "70px" }}
         >
           <div className="logo flex items-center space-x-4">
+          <a href="/">
             <img
               src={logo}
               alt="Logo"
-              style={{ height: navbar ? "74px" : "87px", weight: navbar ? "74px" : "87px" }}
+              style={{
+                height: navbar ? "74px" : "87px",
+                weight: navbar ? "74px" : "87px",
+              }}
             />
+            </a>
             <nav className="font-poppins-200 space-x-4"></nav>
           </div>
 
