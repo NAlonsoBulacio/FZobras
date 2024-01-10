@@ -45,7 +45,7 @@ const Counter = () => {
             ref={ref1}
             className="w-full flex justify-center md:justify-center items-center"
           >
-            <p className="text-green-700 font-barlow-700 w-32 md:w-40 text-5xl md:text-5xl lg:text-5xl xl:text-5xl 2xl:text-6xl">
+            <p className="text-green-700 font-barlow-600 w-32 md:w-40 text-5xl md:text-5xl lg:text-5xl xl:text-5xl 2xl:text-6xl">
               +{count1}K
             </p>
           </div>
@@ -65,7 +65,7 @@ const Counter = () => {
             ref={ref2}
             className="w-full flex justify-center md:justify-center items-center"
           >
-            <p className="text-green-700 font-barlow-700  w-32 md:w-40 text-5xl md:text-5xl lg:text-5xl xl:text-5xl 2xl:text-6xl">
+            <p className="text-green-700 font-barlow-600  w-32 md:w-40 text-5xl md:text-5xl lg:text-5xl xl:text-5xl 2xl:text-6xl">
               +{count2.toLocaleString(undefined, { minimumFractionDigits: 1 })}K
             </p>
           </div>
@@ -85,7 +85,7 @@ const Counter = () => {
             ref={ref1}
             className="w-full h-2/3 flex justify-center md:justify-center items-center"
           >
-            <p className="text-green-700 font-barlow-700  w-32 md:w-40 text-5xl md:text-5xl lg:text-5xl xl:text-5xl 2xl:text-6xl">
+            <p className="text-green-700 font-barlow-600  w-32 md:w-40 text-5xl md:text-5xl lg:text-5xl xl:text-5xl 2xl:text-6xl">
               +0,00
             </p>
           </div>
