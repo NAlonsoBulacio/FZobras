@@ -22,7 +22,7 @@ const Items = ({ img, text, title }) => {
       variants={cardVariants}
       initial="offscreen"
       whileInView="onscreen"
-      viewport={{ once: true, amount: 0.8 }}
+      viewport={{ once: true, amount: 0.4 }}
     >
       <div className="flex justify-start">
         <img className="w-20" src={img} alt="imagen" />
