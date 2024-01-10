@@ -2,7 +2,7 @@ import React from 'react'
 
 const Impulse = () => {
   return (
-    <div className="w-full flex flex-wrap justify-center items-center py-8">
+    <div className="w-full flex flex-wrap justify-center items-center">
     <div className="w-full flex flex-wrap justify-center items-center py-6 mb-4">
       <div className="w-full">
         <h1 className="w-full text-6xl font-barlow-500">F Z Obras</h1>

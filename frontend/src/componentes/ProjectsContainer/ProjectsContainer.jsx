@@ -28,7 +28,7 @@ const ProjectsContainer = () => {
     },
   ];
   return (
-    <div className="py-12 space-y-6">
+    <div className="space-y-6">
       <div className="w-full flex flex-wrap items-center justify-center">
         <div className="w-full flex flex-wrap justify-center items-center py-8">
           <div className="w-full flex justify-center items-center ">

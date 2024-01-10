@@ -44,7 +44,7 @@ const ItemsContainer = () => {
   
 
   return (
-    <div className="py-12">
+    <div className="">
       {/* <motion.h1
         className="font-outfit-800 text-center md:text-left text-4xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl mb-0 md:mb-6 ml-0 md:ml-6"
         style={{ color: "#001659" }}

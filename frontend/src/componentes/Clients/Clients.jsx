@@ -17,7 +17,7 @@ const Clients = () => {
   ];
 
   return (
-    <div className="flex flex-wrap justify-center items-center py-10">
+    <div className="flex flex-wrap justify-center items-center">
       <div className="w-full flex justify-center items-center ">
         <h1 className="text-green-800 text-2xl font-barlow-400 tracking-widest">CLIENTES QUE CONFÍAN EN FZ OBRAS </h1>
       </div>

@@ -11,31 +11,34 @@ import Clients from "../../componentes/Clients/Clients";
 import Footer from "../../componentes/Footer/Footer";
 import ProjectsContainer from "../../componentes/ProjectsContainer/ProjectsContainer";
 import Flyer1 from "../../componentes/Flyer1/Flyer1";
-import WhatsappButton from '../../componentes/Whatsapp/WhatsappButton';
+import WhatsappButton from "../../componentes/Whatsapp/WhatsappButton";
 const Home = () => {
   return (
     <div className="flex flex-col items-center">
       <Header />
       <CarrouselProject />
-      <div className="w-full">
+      <div
+        className="w-full py-16 space-y-12"
+        style={{ backgroundColor: "#082212" }}
+      >
         <Counter />
-      </div>
-      <div className="w-full">
         <WhatWeDoContainer />
       </div>
       <Flyer1 />
-      <ProjectsContainer />
-      <div className="text-center py-4 max-w-[1223px] mx-auto ">
-        <ItemsContainer />
-      </div>
-      <div className="w-full">
-        <Clients />
-      </div>
-      <div className="w-full">
-        <FollowUs />
-      </div>
-      <div className="text-center py-4 max-w-[1223px] mx-auto ">
-        <ContactUs />
+      <div className="py-12 space-y-16">
+        <ProjectsContainer />
+        <div className="text-center py-4 max-w-[1223px] mx-auto ">
+          <ItemsContainer />
+        </div>
+        <div className="w-full">
+          <Clients />
+        </div>
+        <div className="w-full">
+          <FollowUs />
+        </div>
+        <div className="text-center max-w-[1223px] mx-auto ">
+          <ContactUs />
+        </div>
       </div>
       <WhatsappButton />
       <Footer />

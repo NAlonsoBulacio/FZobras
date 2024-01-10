@@ -10,10 +10,12 @@ const AboutUs = () => {
     <div>
       <FrameContact />
       <Header />
-      <Impulse />
-      <WhyUs />
-      <div className="text-center py-4 max-w-[1223px] mx-auto ">
-        <ContactUs />
+      <div className="py-8 pb-16 space-y-10">
+        <Impulse />
+        <WhyUs />
+        <div className="text-center max-w-[1223px] mx-auto ">
+          <ContactUs />
+        </div>
       </div>
       <Footer />
     </div>

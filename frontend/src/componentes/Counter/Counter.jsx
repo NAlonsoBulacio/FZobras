@@ -36,7 +36,7 @@ const Counter = () => {
   }
 
   return (
-    <div className="w-full flex justify-center items-center py-12 pt-16"
+    <div className="w-full flex justify-center items-center"
     style={{backgroundColor: "#082212"}}
     >
       <div className="flex flex-wrap justify-center items-center px-10 notranslate">
