@@ -18,7 +18,7 @@ const Items = ({ img, text, title }) => {
 
   return (
     <motion.div
-      className="mx-auto h-[350px] text-center overflow-hidden border-2 border-gray-300 px-8 py-4 space-y-2 rounded-xl hover:bg-green-100"
+      className="mx-auto h-[350px] text-center overflow-hidden border-2 border-gray-300 px-8 py-4 space-y-2 rounded-xl hover:bg-blue-100"
       variants={cardVariants}
       initial="offscreen"
       whileInView="onscreen"

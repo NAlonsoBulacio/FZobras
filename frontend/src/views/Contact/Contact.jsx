@@ -20,7 +20,7 @@ const Contact = () => {
               ¡Gracias por tu interés en contactar con Sustentacorp! Estamos emocionados por saber cómo podemos colaborar contigo en tu próximo proyecto. Ya sea que necesites más información, desees solicitar un presupuesto o simplemente quieras conocernos mejor, estamos aquí para escucharte y responder a tus consultas.
               </h1>
             </div>
-            <div className="w-full flex justify-start items-center text-left text-3xl text-green-300">
+            <div className="w-full flex justify-start items-center text-left text-3xl text-blue-600">
               <h1>Información de Contacto</h1>
             </div>
             <div className="w-full flex flex-wrap justify-start items-center text-left text-lg text-gray-500 space-y-4">

@@ -9,7 +9,7 @@ const Impulse = () => {
       </div>
       <div className="w-full flex justify-center">
         <div className="w-2/5">
-          <hr className="my-2 border-[1.5px] border-green-500" />
+          <hr className="my-2 border-[1.5px] border-blue-800" />
         </div>
       </div>
       <div className="w-full flex justify-center items-center">

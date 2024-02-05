@@ -25,13 +25,13 @@
 
 }
 .header-bg{
-    background-color: #082212;
+    background-color: #081022;
 }
 .logo{
     transition: .3s ease-in;
 }
 .active {
-    border-bottom: 2px solid #179c4a;
+    border-bottom: 2px solid #213894;
     transition: all 0.5s; 
   }
 
@@ -41,5 +41,5 @@
   }
   
   .a-h:hover {
-    border-bottom: 2px solid #179c4a;
+    border-bottom: 2px solid #213894;
   }

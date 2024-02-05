@@ -19,11 +19,11 @@ const Clients = () => {
   return (
     <div className="flex flex-wrap justify-center items-center">
       <div className="w-full flex justify-center items-center ">
-        <h1 className="text-green-800 text-2xl font-barlow-400 tracking-widest">CLIENTES QUE CONFÍAN EN FZ OBRAS </h1>
+        <h1 className="text-gray-800 text-2xl font-barlow-400 tracking-widest">CLIENTES QUE CONFÍAN EN FZ OBRAS </h1>
       </div>
       <div className="w-full flex justify-center ">
             <div className="w-1/5">
-              <hr className="my-2 border-[1.5px] border-green-500" />
+              <hr className="my-2 border-[1.5px] border-blue-700" />
             </div>
           </div>
       <div className="w-full flex justify-center items-center">

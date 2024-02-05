@@ -29,7 +29,7 @@ const WhatWeDo = () => {
           <div className="w-full flex justify-start items-center px-8">
             <button
               className=" text-white px-4 py-4 rounded-lg text-lg font-barlow-500"
-              style={{backgroundColor: "#082212"}}
+              style={{backgroundColor: "#081022"}}
             >
               Ver Mas
             </button>
@@ -57,7 +57,7 @@ const WhatWeDo = () => {
           <div className="w-full flex justify-start items-center px-8">
             <button
                className=" text-white px-4 py-4 rounded-lg text-lg font-barlow-500"
-               style={{backgroundColor: "#082212"}}
+               style={{backgroundColor: "#081022"}}
             >
               Ver Mas
             </button>
@@ -85,7 +85,7 @@ const WhatWeDo = () => {
           <div className="w-full flex justify-start items-center px-8">
             <button
               className=" text-white px-4 py-4 rounded-lg text-lg font-barlow-500"
-              style={{backgroundColor: "#082212"}}
+              style={{backgroundColor: "#081022"}}
             >
               Ver Mas
             </button>

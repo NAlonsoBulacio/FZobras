@@ -19,7 +19,7 @@ const Home = () => {
       <CarrouselProject />
       <div
         className="w-full py-16 space-y-12"
-        style={{ backgroundColor: "#082212" }}
+        style={{ backgroundColor: "#081022" }}
       >
         <Counter />
         <WhatWeDoContainer />

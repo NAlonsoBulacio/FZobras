@@ -16,7 +16,7 @@ const BestProject = ({ img, title }) => {
         </div>
       </div>
       <div className="w-full flex flex-wrap justify-center items-center">
-        <h1 className="text-xl font-barlow-500 text-green-800">{title}</h1>
+        <h1 className="text-xl font-barlow-500 text-indigo-900">{title}</h1>
       </div>
     </div>
   );

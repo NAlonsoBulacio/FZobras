@@ -45,17 +45,6 @@ const ItemsContainer = () => {
 
   return (
     <div className="">
-      {/* <motion.h1
-        className="font-outfit-800 text-center md:text-left text-4xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl mb-0 md:mb-6 ml-0 md:ml-6"
-        style={{ color: "#001659" }}
-        variants={titleVariants}
-        initial="offscreen"
-        // animate="onscreen"
-        whileInView="onscreen"
-        viewport={{ once: true, amount: 0.8 }}
-      >
-        Nuestros Mercados
-      </motion.h1> */}
       <div className="flex flex-wrap  md:max-w-[1300px]">
         {datosComponenteB.map((datos, index) => (
           <div key={index} className="w-full md:w-1/3 p-4">

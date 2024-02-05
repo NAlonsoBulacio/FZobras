@@ -4,18 +4,19 @@ import { BiLogoLinkedin, BiLogoFacebook } from "react-icons/bi";
 import { BsPinMapFill } from "react-icons/bs";
 import { FaWhatsapp } from "react-icons/fa";
 import { IoMailOutline } from "react-icons/io5";
+import logo from '../../multimedia/logo.png'
 const Footer = () => {
   return (
     <div
       className="w-full flex flex-wrap justify-center items-center py-6"
-      style={{ backgroundColor: "#082212" }}
+      style={{ backgroundColor: "#081022" }}
     >
       <div className="w-full flex justify-center items-start px-28 py-20 space-x-14">
         <div className="w-1/3 flex flex-wrap justify-start items-center space-y-6">
           <img
-            src="https://sustentacorp.com/wp-content/uploads/2023/08/logo-blanco-1.png"
-            alt=""
-            className="w-full"
+            src={logo}
+            alt="logo"
+            className="w-1/4"
           />
           <div className="w-full ">
             <h1 className="text-gray-300 text-left ">

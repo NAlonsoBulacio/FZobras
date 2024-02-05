@@ -32,13 +32,13 @@ const ProjectsContainer = () => {
       <div className="w-full flex flex-wrap items-center justify-center">
         <div className="w-full flex flex-wrap justify-center items-center py-8">
           <div className="w-full flex justify-center items-center ">
-            <h1 className="text-green-800 text-2xl font-barlow-400 tracking-widest">
+            <h1 className="text-gray-800 text-2xl font-barlow-400 tracking-widest">
               Nuestro trabajo
             </h1>
           </div>
           <div className="w-full flex justify-center ">
             <div className="w-1/5">
-              <hr className="my-2 border-[1.5px] border-green-500" />
+              <hr className="my-2 border-[1.5px] border-blue-700" />
             </div>
           </div>
           <div className="w-full flex justify-center items-center ">
@@ -54,7 +54,7 @@ const ProjectsContainer = () => {
         </div>
       </div>
       <div className="">
-      <button className="text-2xl text-gray-200 px-4 py-2 font-barlow-400" style={{ backgroundColor: "#0b341b" }}>
+      <button className="text-2xl text-gray-200 px-4 py-2 font-barlow-400 rounded-md" style={{ backgroundColor: "#081022" }}>
           Ver todos los proyectos
         </button>
       </div>

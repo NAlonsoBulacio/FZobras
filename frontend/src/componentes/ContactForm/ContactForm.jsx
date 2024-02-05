@@ -46,7 +46,7 @@ const ContactForm = () => {
         <div className="ml-4">
           <h1
             className="font-outfit-800 text-center md:text-left text-3xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl"
-            style={{ color: "#0b2e18" }}
+            style={{ color: "#081022" }}
           >
             CONTACTANOS
           </h1>
@@ -56,7 +56,7 @@ const ContactForm = () => {
             <div className="w-full mb-4">
               <label
                 htmlFor="name"
-                className="block mb-2 text-left font-bold text-green-500"
+                className="block mb-2 text-left font-bold text-blue-600"
               >
                 ¿Cuál es tu nombre y apellido?
               </label>
@@ -74,7 +74,7 @@ const ContactForm = () => {
             <div className="w-full mb-4">
               <label
                 htmlFor="email"
-                className="block mb-2 text-left font-bold text-green-500"
+                className="block mb-2 text-left font-bold text-blue-600"
               >
                 Correo Electrónico:
               </label>
@@ -93,7 +93,7 @@ const ContactForm = () => {
           <div className="mb-4">
             <label
               htmlFor="subject"
-              className="block mb-2 text-left font-bold text-green-500"
+              className="block mb-2 text-left font-bold text-blue-600"
             >
               Asunto
             </label>
@@ -111,7 +111,7 @@ const ContactForm = () => {
           <div className="mb-2">
             <label
               htmlFor="message"
-              className="block mb-2 text-left font-bold text-green-500"
+              className="block mb-2 text-left font-bold text-blue-600"
             >
               Mensaje
             </label>
@@ -129,7 +129,7 @@ const ContactForm = () => {
             <button
               className="text-white py-2 px-4 font-barlow-500 text-lg w-full md:w-1/5 rounded-md transform transition-transform hover:scale-105"
               type="submit"
-              style={{ backgroundColor: "#0b2e18", padding: "12px" }}
+              style={{ backgroundColor: "#081022", padding: "12px" }}
             >
               Enviar
             </button>

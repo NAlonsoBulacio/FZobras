@@ -38,13 +38,13 @@ const WhyUs = () => {
     <div className="w-full flex flex-wrap justify-center items-center">
       <div className="w-full flex flex-wrap justify-center items-center py-6 mb-4">
         <div className="w-full">
-          <h1 className="text-green-800 text-3xl font-barlow-400 tracking-widest">
+          <h1 className="text-gray-800 text-3xl font-barlow-400 tracking-widest">
             F Z Obras
           </h1>
         </div>
         <div className="w-full flex justify-center">
           <div className="w-2/5">
-            <hr className="my-2 border-[1.5px] border-green-500" />
+            <hr className="my-2 border-[1.5px] border-blue-900" />
           </div>
         </div>
         <div className="w-full flex justify-center items-center">
